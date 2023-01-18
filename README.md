@@ -1,6 +1,8 @@
 ## 1) LFS - Linux File System
 
-		![](https://github.com/akajhon/Linux-Essentials-Guide/blob/main/LFI.png)
+<p align="center">
+<img src="https://github.com/akajhon/Linux-Essentials-Guide/blob/main/LFI.png" alt="LFI" width="650" height="400"/>
+</p>
 
 `#` = Comentário. Vale para não executar comandos na CLI.
 
